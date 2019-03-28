@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.sidebar{
+	position:fixed;
+	top:0px;
+	right:0;
+	padding:5px;
+	background-color:purple;
+	color:white;
+	min-height:800px;
+	max-width:300px;
+	text-align:justify;
+}
+
+.container{
+	width:40vw;
+	padding:20px;
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:12vh;
+	background-color:#33cccc;
+}
+.container2{
+	margin-top:0;
+	background-color:pink;
+}
+
+.container2 h1:hover{
+	font-family:"Comic Sans MS";
+	font-size:40px;
+	transition-duration:1s;
+}
+
+.container3{
+	margin-top:0;
+	background-color:#33cccc;
+}
