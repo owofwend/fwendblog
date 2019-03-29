@@ -6,6 +6,7 @@
 body{
 	background-image: linear-gradient(-130deg, pink , purple);
 	background-attachment:fixed;
+	font-family:"Comic Sans MS";
 }
 
 .sidebar{
@@ -19,7 +20,7 @@ body{
 	background-position: left bottom;
 	color:white;
 	height:100vh;
-	max-width:40vw;
+	width:25vw;
 	text-align:justify;
 }
 
@@ -34,7 +35,7 @@ body{
 	background-position: left bottom;
 	color:white;
 	height:100vh;
-	max-width:40vw;
+	width:25vw;
 	text-align:justify;
 }
 
