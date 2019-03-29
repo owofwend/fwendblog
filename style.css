@@ -28,7 +28,7 @@
 	background-color:pink;
 }
 
-.container2 h1:hover{
+.* h1:hover{
 	font-family:"Comic Sans MS";
 	font-size:40px;
 	transition-duration:1s;
