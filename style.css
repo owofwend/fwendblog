@@ -7,7 +7,7 @@ body{
 	background-image: linear-gradient(-130deg, pink , purple);
 	background-attachment:fixed;
 	font-family:"Comic Sans MS";
-	text-align:left;
+	
 }
 
 .sidebar{
@@ -47,7 +47,7 @@ body{
 	margin-left:auto;
 	margin-top:12vh;
 	background-color:#99ddff;
-	text-align:left;
+	text-align:right;
 }
 .container2{
 	margin-top:0;
