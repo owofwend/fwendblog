@@ -23,6 +23,21 @@ body{
 	text-align:justify;
 }
 
+.sidebar2{
+	position:fixed;
+	top:0px;
+	right:0;
+	padding:5px;
+	background-image: linear-gradient(130deg, pink , purple);
+	background-size: cover;
+	background-attachment: scroll;
+	background-position: left bottom;
+	color:white;
+	height:100vh;
+	max-width:40vw;
+	text-align:justify;
+}
+
 .container{
 	width:40vw;
 	padding:20px;
