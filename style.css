@@ -3,6 +3,11 @@
 	padding:0;
 }
 
+body{
+	background-image: linear-gradient(130deg, pink , purple);
+	background-attachment:fixed;
+}
+
 .sidebar{
 	position:fixed;
 	top:0px;
