@@ -8,7 +8,10 @@
 	top:0px;
 	right:0;
 	padding:5px;
-	background-color:purple;
+	background-image:url(kawaiiwallpaper.jpeg);
+	background-size: cover;
+	background-attachment: scroll;
+	background-position: left bottom;
 	color:white;
 	height:100vh;
 	max-width:40vw;
