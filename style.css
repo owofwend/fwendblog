@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Baloo+Chettan|Patrick+Hand|Shadows+Into+Light|Special+Elite');
+@import url('https://fonts.googleapis.com/css?family=Baloo+Chettan|Patrick+Hand|Shadows+Into+Light|Special+Elite');
 
 *{
 	margin:0;
@@ -29,7 +29,7 @@ body{
 }
 
 .header h1 {
-	font-family: 'Special Elite' ;
+	font-family: "Special Elite";
 	font-size:45px;
  	background: -webkit-linear-gradient(#ff66cc, #00ff99);
  	-webkit-background-clip: text;
@@ -37,7 +37,7 @@ body{
 }
 
 .header h1:hover {
-	font-family: 'Special Elite' ;
+	font-family: "Special Elite";
 	font-size:45px;
  	background: -webkit-linear-gradient(#ff8000, #cc00ff);
  	-webkit-background-clip: text;
@@ -90,6 +90,27 @@ body{
 	box-sizing: border-box;
 }
 
+.footer{
+	width:50vw;
+	text-align:center;
+	object-position: center;
+	font-family:Oswald;
+	background-image: linear-gradient(to top, rgba(0,0,0,0.75), rgba(0,0,0,0));
+	padding:5px;
+	box-sizing: border-box;
+	margin:0 auto;
+	font-size:2vw;
+	z-index: 6;
+}
+
+.footer p{
+	background: -webkit-linear-gradient(#ff8000, #cc00ff);
+ 	-webkit-background-clip: text;
+ 	-webkit-text-fill-color: transparent;
+	min-height:5vh;
+	font-family: "Baloo Chettan";
+}
+
 .container{
 	width:40vw;
 	padding:20px;
@@ -125,7 +146,6 @@ body{
 }
 
 * h1:hover{
-	font-family:"Comic Sans MS";
 	font-size:40px;
 	transition-duration:1s;
 }
