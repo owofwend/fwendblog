@@ -95,6 +95,7 @@ body{
 }
 
 /* OwO onii-chan you awe weading the souwcecode to my fwend bwog here O_o y awe u doing that fwend? X-X  */
+/* OOH HEWWO FEWND!!! Yees you tawt me wewwy weww fwend, I suwe wowe cweating this mastapice togewew <3 */
 
 .footer{
 	width:50vw;
@@ -118,7 +119,7 @@ body{
 	font-family: "Baloo Chettan";
 }
 
-.container{ /*dis is the top pwost on my bwog fwends */
+.container{ /*dis is the top pwost on my bwog fwends */ /* 0w0 yes that one I wowe that one!!! */
 	width:40vw;
 	padding:20px;
 	margin-right:auto;
@@ -126,6 +127,11 @@ body{
 	margin-top:20vh;
 	background-color:magenta;
 	text-align:right;
+}
+
+.container7{
+	margin-top:0;
+	background-color:#99ddff;
 }
 
 .container6{
@@ -153,6 +159,7 @@ body{
 }
 
 /* pwease comment "loli but not childwen" fow fwee candy UvU */
+/* 0w0 oh noes you did'nt ლ(ಠ益ಠლ)!!!!!!!!!!! */
 
 * h1:hover{
 	font-size:40px;
