@@ -1,3 +1,5 @@
+/* dont wead the souwce code pwease!!!! x_x is not vewy good fwends */
+
 @import url('https://fonts.googleapis.com/css?family=Baloo+Chettan|Patrick+Hand|Shadows+Into+Light|Special+Elite');
 
 *{
@@ -43,6 +45,8 @@ body{
  	-webkit-background-clip: text;
  	-webkit-text-fill-color: transparent;
 }
+
+/* dis above is so u can enlawge the titwes */
 
 .sidebar{
 	position:fixed;
@@ -90,6 +94,8 @@ body{
 	box-sizing: border-box;
 }
 
+/* OwO onii-chan you awe weading the souwcecode to my fwend bwog here O_o y awe u doing that fwend? X-X  */
+
 .footer{
 	width:50vw;
 	text-align:center;
@@ -112,7 +118,7 @@ body{
 	font-family: "Baloo Chettan";
 }
 
-.container{
+.container{ /*dis is the top pwost on my bwog fwends */
 	width:40vw;
 	padding:20px;
 	margin-right:auto;
@@ -145,6 +151,8 @@ body{
 	margin-top:0;
 	background-color:#ff99dd;
 }
+
+/* pwease comment "loli but not childwen" fow fwee candy UvU */
 
 * h1:hover{
 	font-size:40px;
